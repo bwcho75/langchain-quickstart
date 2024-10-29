@@ -1,0 +1,9 @@
+.cursorignore
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+.python-version
+.venv
+venv
+sample-vertex-cred.json
+.env
